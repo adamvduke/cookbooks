@@ -10,3 +10,6 @@
 [submodule "git"]
 	path = git
 	url = https://github.com/opscode-cookbooks/git.git
+[submodule "graphite"]
+	path = graphite
+	url = https://github.com/heavywater/chef-graphite.git
