@@ -19,3 +19,6 @@
 [submodule "runit"]
 	path = runit
 	url = https://github.com/opscode-cookbooks/runit.git
+[submodule "networking_basic"]
+	path = networking_basic
+	url = https://github.com/adamvduke/networking_basic.git
