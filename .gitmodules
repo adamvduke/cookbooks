@@ -12,7 +12,7 @@
 	url = https://github.com/opscode-cookbooks/git.git
 [submodule "graphite"]
 	path = graphite
-	url = https://github.com/heavywater/chef-graphite.git
+	url = https://github.com/adamvduke/chef-graphite.git
 [submodule "python"]
 	path = python
 	url = https://github.com/opscode-cookbooks/python.git
