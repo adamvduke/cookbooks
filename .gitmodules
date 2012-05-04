@@ -16,3 +16,6 @@
 [submodule "python"]
 	path = python
 	url = https://github.com/opscode-cookbooks/python.git
+[submodule "runit"]
+	path = runit
+	url = https://github.com/opscode-cookbooks/runit.git
