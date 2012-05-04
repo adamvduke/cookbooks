@@ -22,3 +22,6 @@
 [submodule "networking_basic"]
 	path = networking_basic
 	url = https://github.com/adamvduke/networking_basic.git
+[submodule "node"]
+	path = node
+	url = https://github.com/adamvduke/cookbook-node.git
