@@ -25,3 +25,6 @@
 [submodule "node"]
 	path = node
 	url = https://github.com/adamvduke/cookbook-node.git
+[submodule "add_swap"]
+	path = add_swap
+	url = git@github.com:adamvduke/add_swap.git
